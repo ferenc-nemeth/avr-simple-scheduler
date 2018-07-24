@@ -7,6 +7,8 @@
  *			With a help of a timer the tasks get into READY state after every time period (except if they are SUSPENDED) and
  *			they get called and executed in the main()'s inifinte loop. After they are finished everything starts over.
  *			This Scheduler helps you to keep your tasks and timing organized.
+ *
+ *			Copyright (c) 2018 Ferenc Nemeth - https://github.com/iamferenc/
  */ 
 
 #ifndef OS_H_
