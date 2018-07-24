@@ -1,8 +1,8 @@
 /**
- * @file	Task2.h
- * @author	Ferenc Nemeth
- * @date	21 Jul 2018
- * @brief	Demo task for blinking a LED.
+ * @file    Task2.h
+ * @author  Ferenc Nemeth
+ * @date    21 Jul 2018
+ * @brief   Demo task for blinking a LED.
  */ 
 
 #ifndef TASK2_H_
