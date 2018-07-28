@@ -25,7 +25,7 @@ static uint8_t      task_number = 0u;               /**< Number of the registere
  * @param   default_state: The state it starts (recommended state: BLOCKED).
  * @return  OS_feedback: Feedback about the success or cause of error of the registration.
  */
-OS_feedback OS_TaskCreate(fncPtr function, uint8_t default_time_burst, uint8_t default_state)
+OS_feedback OS_TaskCreate(fncPtr function, uint8_t default_time_burst, OS_state default_state)
 {
     OS_feedback ret = NOK_UNKNOWN;
 

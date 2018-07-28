@@ -59,7 +59,7 @@ typedef enum
 /**
  * Functions.
  */
-OS_feedback OS_TaskCreate(fncPtr task, uint8_t default_time_burst, uint8_t default_state);
+OS_feedback OS_TaskCreate(fncPtr task, uint8_t default_time_burst, OS_state default_state);
 void OS_TaskTimer(void);
 void OS_TaskExecution(void);
 OS_state OS_GetTaskSate(uint8_t task_number);
