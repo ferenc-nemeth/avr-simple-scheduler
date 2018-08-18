@@ -8,7 +8,7 @@
  *          they get called and executed in the main()'s inifinte loop. After they are finished everything starts over.
  *          This Scheduler helps you to keep your tasks and timing organized.
  *
- *          Copyright (c) 2018 Ferenc Nemeth - https://github.com/iamferenc/
+ *          Copyright (c) 2018 Ferenc Nemeth - https://github.com/ferenc-nemeth/
  */ 
 
 #ifndef OS_H_
