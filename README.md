@@ -1,4 +1,5 @@
 # avr-simple-scheduler
+A really simple, non-preemptive task scheduler. 
 
 ### Table of content
 - [Introduction](#introduction)
